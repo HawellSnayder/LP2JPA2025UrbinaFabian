@@ -24,7 +24,7 @@ public class TblCliente {
 	private String dnicliente;
     @Column(name="sexo")
 	private String sexcliente;
-    @Column(name="telf")
+    @Column(name="telefono")
 	private String telfcliente;
     @Column(name="nacionalidad")
 	private String nacioncliente;
